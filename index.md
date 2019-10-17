@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Header One
 This is index.md.

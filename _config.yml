@@ -1,5 +1,5 @@
 description: gaminax site5
-theme: minima
+remote_theme: gaminax/minima3
 
 plugins:
  - jekyll-feed

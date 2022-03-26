@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Home [foo](foo.md)
+Home [foo md](foo.md) [foo html](foo.html) [foo1 ad](foo1.html)
 
 # Header One
 This is index.md.

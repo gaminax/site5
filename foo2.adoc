@@ -5,7 +5,7 @@ layout: default
 Home [foo md](foo.md) [foo html](foo.html) [foo1 ad](foo1.html) [foo2 html](foo2.html)
 
 # Header One
-This is foo1.ad.
+This is foo2.adoc.
 
 This is line four.  
 This is line five.  

@@ -2,5 +2,6 @@ description: gaminax site5
 theme: minima
 
 plugins:
+ - jekyll-asciidoc
  - jekyll-feed
  - jekyll-seo-tag

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+= asciidoc1
+
+++++
+<style>
+a.white { color: white; }
+</style>
+<p>
+<a href="index.html">Home</a>
+<a href="foo1.html">foo1</a>
+<a href="foo2.html">foo2</a>
+<a href="foo3.html">foo3</a>
+<a href="ad1.html">ad1</a>
+<a href="adoc1.html">adoc1</a>
+asciidoc1
+</p>
+++++
+
+This is asciidoc1.asciidoc.
+
+This is an asciidoc file.
+There is no asciidoc1.html source file.
+
+Html is put inside a passthrough block,
+beginning with '++++' line and ending with another '++++' line.

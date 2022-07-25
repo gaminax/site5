@@ -25,4 +25,5 @@ This is an asciidoc file.
 There is no asciidoc1.html source file.
 
 Html is put inside a passthrough block,
-beginning with '++++' line and ending with another '++++' line.
+which begins with a '++++' line and ends with another '++++' line.
+

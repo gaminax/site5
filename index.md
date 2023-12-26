@@ -14,3 +14,4 @@ This is line six.
     This is it.
     And so is this.
 
+[foo3.md](foo3.html)

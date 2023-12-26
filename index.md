@@ -15,3 +15,4 @@ This is line six.
     And so is this.
 
 [foo3.md](foo3.html)
+[foo4.rmu](foo4.html)

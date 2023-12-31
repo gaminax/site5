@@ -5,3 +5,7 @@ plugins:
  - jekyll-asciidoc
  - jekyll-feed
  - jekyll-seo-tag
+
+jekyll-asciidoc:
+    ext: ad, adoc, asciidoc
+
